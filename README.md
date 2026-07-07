@@ -1,6 +1,6 @@
 ### Prince — IIT Delhi, Physics. Building systems in C, C++, and Rust.
 
-**Portfolio:** [evans-prince.github.io](https://evans-prince.github.io/)
+**Portfolio:** [evans-prince.github.io](https://princeevans.dev/)
 
 **Live demos** (WebAssembly, running entirely in your browser, no server):
 
